@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Third State",
+  "universe": "TAR · The Third State (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Third State:TAR:053d41⟧",
+  "carbon": "the-third-state.carbon.tiff (TIFF)",
+  "silicon": "the-third-state.silicon.png (PNG)",
+  "seal_sha256": "e6d0ed207560a686b187b09acb9ed28f0ea2e1dcab95eeeff345303aba0c9df1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

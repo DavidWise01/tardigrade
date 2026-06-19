@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Dsup",
+  "universe": "TAR · Dsup (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦Dsup:TAR:1ec3c5⟧",
+  "carbon": "dsup.carbon.tiff (TIFF)",
+  "silicon": "dsup.silicon.png (PNG)",
+  "seal_sha256": "301dbe68c8714686a523da2f38aa3c47d726255bbeae5be8de18a3c7db43ff4a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

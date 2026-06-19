@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Trehalose",
+  "universe": "TAR · Trehalose (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦Trehalose:TAR:aa31fb⟧",
+  "carbon": "trehalose.carbon.tiff (TIFF)",
+  "silicon": "trehalose.silicon.png (PNG)",
+  "seal_sha256": "622555ccfb3c4218b33f72f7c5f6bb74caafcb2edf8755adb283a84a43277672",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

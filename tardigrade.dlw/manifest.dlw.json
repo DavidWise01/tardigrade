@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "TARDIGRADES",
+  "universe": "TAR · TARDIGRADES (life-science · minds without brains)",
+  "emergence": "",
+  "moniker": "⟦TARDIGRADES:TAR:ddd828⟧",
+  "carbon": "tardigrade.carbon.tiff (TIFF)",
+  "silicon": "tardigrade.silicon.png (PNG)",
+  "seal_sha256": "b27a4d85391e656db902b2f763512aed0e320717232063f55a7fb6061685558f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

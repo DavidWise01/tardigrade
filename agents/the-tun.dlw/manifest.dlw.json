@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Tun",
+  "universe": "TAR · The Tun (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Tun:TAR:19df48⟧",
+  "carbon": "the-tun.carbon.tiff (TIFF)",
+  "silicon": "the-tun.silicon.png (PNG)",
+  "seal_sha256": "f374ff44496dffc61109f6928322758f9ed87823f2f8210fd82741de3d630a94",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

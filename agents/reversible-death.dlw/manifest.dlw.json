@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Reversible Death",
+  "universe": "TAR · Reversible Death (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Reversible Death:TAR:6c8977⟧",
+  "carbon": "reversible-death.carbon.tiff (TIFF)",
+  "silicon": "reversible-death.silicon.png (PNG)",
+  "seal_sha256": "16982d781f947b1e9946e6a4e73ad68ff32003b7920f5593ac657b86d925aae6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

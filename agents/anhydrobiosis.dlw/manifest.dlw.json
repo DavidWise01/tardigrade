@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Anhydrobiosis",
+  "universe": "TAR · Anhydrobiosis (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦Anhydrobiosis:TAR:0db14c⟧",
+  "carbon": "anhydrobiosis.carbon.tiff (TIFF)",
+  "silicon": "anhydrobiosis.silicon.png (PNG)",
+  "seal_sha256": "2827f4f992e80222100058b9bfbef00774ad7bcfa3e232b56320f5fe5441b0c9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

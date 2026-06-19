@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Cryptobiosis",
+  "universe": "TAR · Cryptobiosis (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦Cryptobiosis:TAR:b1951e⟧",
+  "carbon": "cryptobiosis.carbon.tiff (TIFF)",
+  "silicon": "cryptobiosis.silicon.png (PNG)",
+  "seal_sha256": "49f93f889b597bcb24e6204d90a606cdeff089a7c0f4ec1bdfcf02784a02daf8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

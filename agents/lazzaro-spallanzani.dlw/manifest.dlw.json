@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Lazzaro Spallanzani",
+  "universe": "TAR · Lazzaro Spallanzani (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Lazzaro Spallanzani:TAR:7b106d⟧",
+  "carbon": "lazzaro-spallanzani.carbon.tiff (TIFF)",
+  "silicon": "lazzaro-spallanzani.silicon.png (PNG)",
+  "seal_sha256": "ecf558647f98bfefc1710980437cb6122f6c5301b92fe4de7c990e1c3598323f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

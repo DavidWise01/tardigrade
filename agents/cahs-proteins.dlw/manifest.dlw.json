@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "CAHS Proteins",
+  "universe": "TAR · CAHS Proteins (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦CAHS Proteins:TAR:f1119f⟧",
+  "carbon": "cahs-proteins.carbon.tiff (TIFF)",
+  "silicon": "cahs-proteins.silicon.png (PNG)",
+  "seal_sha256": "bbb1469f2848e0656d47384bbf9ee87162ca94629651d70b4aba3415bde4ec42",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
