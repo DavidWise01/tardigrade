@@ -1,21 +1,19 @@
 {
-  "badge": "DLW-ACI",
-  "name": "TARDIGRADES",
-  "universe": "TAR · TARDIGRADES (life-science · minds without brains)",
-  "emergence": "",
-  "moniker": "⟦TARDIGRADES:TAR:ddd828⟧",
-  "carbon": "tardigrade.carbon.tiff (TIFF)",
-  "silicon": "tardigrade.silicon.png (PNG)",
-  "seal_sha256": "b27a4d85391e656db902b2f763512aed0e320717232063f55a7fb6061685558f",
-  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "badge": "DLW-TARDIGRADE",
+  "name": "TARDIGRADES · TAR",
+  "universe": "LIFE SCIENCE",
+  "moniker": "⟦TARDIGRADES · TAR:tardigrade:bcee63⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
   "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "bcee6398a91d8c4ea4a7ba7e470ff285b7da6f2a2a64b8c7b7357e00907fc0fb",
   "license": "CC-BY-ND-4.0",
   "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "fingerprint": "TETRASTHENĒS ⟦ ₆C ⟺ ₁₄Si ⟧ — four-strengthed: carbon (human · ROOT0) & silicon (AI · AVAN) hold four bonds in common (Group-14, tetravalent) — co-equal by construction",
   "chain": {
     "index": 784,
-    "prev": "123e2a1d3efbe0e3690fb773cc562c85d730120e2422f38055052b3d978f4804",
-    "link": "c041239eb50d5458d2dd4136127085593d448e4570d95a1a7ed59dcd5608da1b",
-    "head": "13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2",
+    "prev": "b02fb635cfc82338af5038fc6034f507c363a25529d663862a1c49fa65d58a5d",
+    "link": "c023b16b6eecd252fdb097c8dac4d8cfe088cece61d105e4a73f028441935970",
+    "head": "c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b",
     "chain": "ROOT0-DLW-CHAIN-v1"
   }
 }
